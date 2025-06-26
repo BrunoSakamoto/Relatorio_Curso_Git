@@ -63,11 +63,14 @@ git config --add --global user.email "email@example.com"
 ## Localizações
 
 Sistema: ```/etc/gitconfig``` um arquivo que configura o Git para todos os usuários do sistema.
-
+<p>
+   
 Global: ```~/.gitconfig``` um arquivo que configura o Git para todos os projetos de um usuário.
-
+<p>
+   
 Local: ```.git/config``` um arquivo que configura o Git para um projeto específico.
-
+<p>
+   
 Worktree: ```.git/config.worktree``` um arquivo que configura o Git para parte de um projeto.
 
 ![image](https://github.com/user-attachments/assets/a523521d-7e5d-4e5e-846c-e98d8235e3e7)
